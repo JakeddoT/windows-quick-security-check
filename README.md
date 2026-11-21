@@ -4,6 +4,8 @@ A free, **read-only** PowerShell script that checks the six Windows security bas
 
 ![Example report](docs/example-report.png)
 
+36-second demo: [docs/demo.mp4](docs/demo.mp4)
+
 ## What it checks
 
 | # | Check | Why it matters |
